@@ -1,0 +1,7 @@
+{
+    "env":{
+        "DB_USER":"XXXXXX",
+        "DB_PASSWORD":"XXXXXX",
+        "DB_NAME":"events-graphql"
+    }
+}
